@@ -1,4 +1,4 @@
-# cursobasico
+# Chat flutter
 
 A new chat Flutter project
 
